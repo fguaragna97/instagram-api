@@ -1,0 +1,27 @@
+{
+  "name": "instagram-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fguaragna97/instagram-api.git"
+  },
+  "keywords": [],
+  "author": "Franco Guaragna <fguaragna97@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fguaragna97/instagram-api/issues"
+  },
+  "homepage": "https://github.com/fguaragna97/instagram-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
